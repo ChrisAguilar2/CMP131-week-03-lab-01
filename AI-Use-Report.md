@@ -11,12 +11,12 @@
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [y ] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
-## Tool Used
+## Tool Used 
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 

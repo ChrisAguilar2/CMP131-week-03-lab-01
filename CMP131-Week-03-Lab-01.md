@@ -59,7 +59,7 @@ Select one fictional character or entity.
 
 Display the following required information:
 
-* Name
+* Name 
 * Age
 * Occupation or role
 
